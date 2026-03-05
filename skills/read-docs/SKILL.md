@@ -36,6 +36,18 @@ For each markdown file:
 ### 4. Provide Summary
 Once all documents have been read, summarize all aspects of the full context into one simple and concise summary, and output this formatted nicely for the user.
 
+## How to Use This Skill
+
+### Option 1: Using the Slash Command
+```
+/read docs
+```
+
+### Option 2: Calling as a Named Skill
+```
+skill: "read docs"
+```
+
 ## When to Use This Skill
 
 Use the read docs skill when you need to:

@@ -48,6 +48,18 @@ For merge conflict resolution, prefer keeping changes that:
 ### 5. Push to Remote
 Once the merge is complete, execute `git push origin <current-branch>` to push the synchronized changes to the remote repository.
 
+## How to Use This Skill
+
+### Option 1: Using the Slash Command
+```
+/git sync
+```
+
+### Option 2: Calling as a Named Skill
+```
+skill: "git sync"
+```
+
 ## When to Use This Skill
 
 Use the Custom Git Sync skill when you need to:
