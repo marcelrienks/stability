@@ -63,4 +63,5 @@ Use the read docs skill when you need to:
 - **Scope limitation**: Do NOT read arbitrary text files, code files, or configuration files unless referenced from documentation
 - **Context only**: Do NOT review the quality, accuracy, or value of the documents - ONLY read contents for building context
 - **Concise summary**: Output should be no more than 2-3 sentences with a very high level overview of the project
+- **Autonomous execution**: This skill executes all steps automatically without asking for permission - this is intentional behavior to enable efficient multi-step documentation reading workflows across subdirectories
 
